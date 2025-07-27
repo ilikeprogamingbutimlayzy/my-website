@@ -1,16 +1,20 @@
-body{
-background-color: black;
-min-height: 150px;
-text-align: center;
+body {
+    background-color: black;
+    min-height: 150px;
+    text-align: center;
 }
-#weeee{
-text-align: left;
-padding: 0.1%;
-background: orangered;
-background: -moz-linear-gradient(top, orangered 20%, orangered 7%, black 50%);
-background: -webkit-linear-gradient(top, orangered 20%, orangered 7%, black 50%);
-background: linear-gradient()
+#weeee {
+    text-align: left;
+    padding: 0.1%;
+    background: orangered;
+    background: -moz-linear-gradient(top, orangered 20%, orangered 7%, black 50%);
+    background: -webkit-linear-gradient(top, orangered 20%, orangered 7%, black 50%);
+    background: linear-gradient();
 }
-#ok{
-    color: orangered
+#ok {
+    color: orangered;
+}
+#why {
+    color: orangered;
+    text-align: left;
 }
